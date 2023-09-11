@@ -1,6 +1,8 @@
 # Connect 4 Game
 
-![Connect 4](connect4.png)
+![Captura de pantalla 2023-09-11 165214](https://github.com/wzzzzwwzw/Connect4/assets/46055260/3a3b72fe-ad47-4480-97f5-f612b1e70ed5)
+![Captura de pantalla 2023-09-11 165322](https://github.com/wzzzzwwzw/Connect4/assets/46055260/92492743-5163-4434-9e90-c6fbbde18d7c)
+
 
 ## Description
 
