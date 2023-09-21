@@ -16,7 +16,7 @@ This is a simple implementation of the classic game Connect 4, also known as Fou
 - Responsive design for various screen sizes
 
 ## Technologies Used
-- Java
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Installation
 
